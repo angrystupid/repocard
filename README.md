@@ -10,7 +10,7 @@
 
   <img alt="zero dependencies" src="https://img.shields.io/badge/dependencies-0-59e1c4?style=flat-square">
   <img alt="single file" src="https://img.shields.io/badge/app-single%20file-819cff?style=flat-square">
-  <img alt="MIT license" src="https://img.shields.io/badge/license-MIT-f4f6fb?style=flat-square">
+  <img alt="MIT license" src="https://img.shields.io/badge/license-MIT-f4f6fb?style=flat-square">\r\n  <img alt="GitHub stars" src="https://img.shields.io/github/stars/angrystupid/repocard?style=flat-square&color=59e1c4">
 </div>
 
 <br>
@@ -72,7 +72,12 @@ The app calls the public GitHub REST API. Unauthenticated requests are rate-limi
 - [ ] Copy as Markdown / Open Graph image
 - [ ] Team and organization cards
 
+## Star it if it saved you time
+
+If RepoCard made your repository look better, a star helps other maintainers find it. ⭐
+
 ## License
 
 MIT © [angrystupid](https://github.com/angrystupid)
+
 
